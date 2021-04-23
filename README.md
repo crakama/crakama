@@ -3,11 +3,13 @@ I'm Catherine, Infrastructure Engineer (DevOps):
 
 - Started Android mobile app and Front End development in 2015, DevOps Infra Engineer Since 2020.
 - Like to share knowledge and help people to learn.
-- Currently learning security within DevOps areas, Swedish as a fourth language, New cooking recipes, how to be a mum to a teenager.
-- Open to collaborate on projects within data science, distributed systems and software development (python, java, Infrastructure as Code, Automation)
-- Ask me about anything, I don't bite 😄.
-- I can be reached here and via LinkedIn as well.
+- Life long learner; Current areas DevSecOps, Swedish as a fourth language, New cooking recipes, Being a mum to a teenager.
+- Open to collaborate on projects within data science, distributed systems and software development
+- Ask me about anything, I don't bite 😄. I can be reached here or via LinkedIn.
 
+Most familiar with : Python, Java, IaC with AWS CloudFormation, Bash, Docker, basic Kubernetes & Jenkins, CI/CD with GitLab, Hadoop, Apache Spark, Kafka, Hive, Map-Reduce.
+
+Current interests : Working with distributed Systems within DevSecOps and Data Science areas.
 <!--
 **crakama/crakama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
