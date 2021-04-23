@@ -3,7 +3,7 @@ I'm Catherine, Infrastructure Engineer (DevOps):
 
 - Started Android mobile app and Front End development in 2015, DevOps Infra Engineer Since 2020.
 - Like to share knowledge and help people to learn.
-- Life long learner; Current areas DevSecOps, Swedish as a fourth language, New cooking recipes, Being a mum to a teenager.
+- Life long learner; Current areas - DevSecOps, Swedish as a fourth language, New cooking recipes, Being a mum to a teenager.
 - Open to collaborate on projects within data science, distributed systems and software development
 - Ask me about anything, I don't bite 😄. I can be reached here or via LinkedIn.
 
