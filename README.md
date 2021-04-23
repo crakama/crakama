@@ -5,7 +5,7 @@ I'm Catherine, Infrastructure Engineer (DevOps):
 - Like to share knowledge and help people to [learn what I know](https://www.linkedin.com/in/crakama/detail/recent-activity/posts/). 
 - Life long learner; Current areas - DevSecOps, Swedish as a fourth language, New cooking recipes, Being a mum to a teenager.
 - Open to collaborate on projects within data science, distributed systems and software development
-- Ask me about anything, I don't bite :slightly_smiling_face: . I can be reached here or via [LinkedIn](https://www.linkedin.com/in/crakama/). 
+- Ask me about anything, I can be reached here or via [LinkedIn](https://www.linkedin.com/in/crakama/). 
 
 Most familiar with : Python, Java, IaC with AWS CloudFormation, Bash, Docker, basic Kubernetes & Jenkins, CI/CD with GitLab, Hadoop, Apache Spark, Kafka, Hive, Map-Reduce.
 
