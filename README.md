@@ -10,6 +10,7 @@ I'm Catherine, Infrastructure Engineer (DevOps):
 Most familiar with : Python, Java, IaC with AWS CloudFormation, Bash, Docker, basic Kubernetes & Jenkins, CI/CD with GitLab, Hadoop, Apache Spark, Kafka, Hive, Map-Reduce.
 
 Current interests : Working with distributed Systems within DevSecOps and Data Science areas.
+[![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=crakama)](https://github.com/crakama/github-readme-stats)
 <!--
 **crakama/crakama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
